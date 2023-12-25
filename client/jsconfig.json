@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "baseUrl": "src",
+    "jsx": "react" // Specify the JSX factory function (e.g., "react" or "preact")
+  },
+  "include": ["src/**/*.js", "src/**/*.jsx"]
+}
